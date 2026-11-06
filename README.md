@@ -1,50 +1,93 @@
-# Portfólio Jennifer Suelen
+# 🎮 Portfólio | Jennifer Suelen
 
-Portfólio profissional de Jennifer Suelen, voltado para apresentação de experiência em dados, automação, Business Intelligence e desenvolvimento Full Stack.
+Portfólio profissional com uma identidade visual inspirada em interfaces de videogames, desenvolvido para apresentar minha jornada nas áreas de **Dados, Automação de Processos, Business Intelligence e Desenvolvimento Full Stack**.
 
-## Tecnologias utilizadas
+<p align="center">
+  <a href="https://jennifersuelen.github.io/">
+    <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Acessar portfólio">
+  </a>
+</p>
+
+---
+
+## 👾 Sobre o projeto
+
+O portfólio foi desenvolvido como uma interface inspirada em videogames, utilizando elementos visuais de HUDs futuristas, telas de personagem, árvores de habilidades, missões e conquistas.
+
+O site apresenta:
+
+- 👤 Perfil profissional
+- 🧭 Jornada e experiência
+- 🌳 Árvore de habilidades
+- 🎯 Projetos apresentados como missões
+- 🏆 Conquistas profissionais e acadêmicas
+- 📬 Links para contato
+- 🌙 Alternância entre tema claro e escuro
+- 📱 Layout responsivo para celulares, tablets e computadores
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
 - HTML5
 - CSS3
-- JavaScript puro
+- JavaScript
+- Git e GitHub
 - GitHub Pages
 
-## Estrutura de arquivos
+O projeto utiliza apenas tecnologias nativas, sem frameworks ou dependências que precisem ser instaladas.
+
+---
+
+## ✨ Funcionalidades
+
+- Menu responsivo para dispositivos móveis
+- Navegação suave entre as seções
+- Destaque automático da seção ativa
+- Alternância entre tema claro e escuro
+- Preferência de tema salva no navegador
+- Animações de entrada com `IntersectionObserver`
+- Efeito visual de profundidade nos cards
+- Botão para voltar ao topo
+- Suporte à navegação por teclado
+- Respeito à configuração `prefers-reduced-motion`
+- Design adaptado para diferentes tamanhos de tela
+
+---
+
+## 📁 Estrutura do projeto
+
 ```text
 .
+├── assets/
+│   └── images/
+│       ├── jennifer-icone.jpg
+│       └── jennifer-perfil.png
 ├── index.html
 ├── style.css
 ├── script.js
 ├── .nojekyll
-├── assets/
-│   └── images/
-│       └── .gitkeep
-├── README.md
-└── .git
+└── README.md
 ```
 
-## Execução local
-Para visualizar o site localmente, basta abrir o arquivo `index.html` em um navegador. Também é possível iniciar um servidor local com:
+---
 
-```bash
-python -m http.server 8000
-```
+## 🔗 Acessar o portfólio
 
-Em seguida, acesse:
+### [Abrir portfólio de Jennifer Suelen](https://jennifersuelen.github.io/)
 
-```text
-http://localhost:8000/
-```
+---
 
-## Publicação no GitHub Pages
-1. Faça upload do projeto para o repositório `jennifersuelen.github.io`.
-2. No GitHub, acesse as configurações do repositório.
-3. Em "Pages", selecione a branch principal e a raiz do projeto.
-4. Salve a configuração.
-5. Aguarde a publicação.
+## 📬 Contato
 
-## Link esperado do portfólio
-https://jennifersuelen.github.io/
+- [GitHub](https://github.com/JenniferSuelen)
+- [LinkedIn](https://www.linkedin.com/in/jennifer-suelen/)
+- E-mail: [jennifersuelen078@gmail.com](mailto:jennifersuelen078@gmail.com)
 
-## Links
-- GitHub: https://github.com/JenniferSuelen
-- LinkedIn: https://www.linkedin.com/in/jennifer-suelen/
+---
+
+## 👩‍💻 Autoria
+
+en**, estudante de Sistemas de Informação e profissional das áreas de Dados e Automação.
+
+⭐ Se você gostou do projeto, fique à vontade para visitar meus outros repositórios!
